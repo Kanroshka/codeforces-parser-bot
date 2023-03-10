@@ -1,0 +1,1 @@
+from .data_parser import pulling_data_for_each_page
